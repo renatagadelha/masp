@@ -7,7 +7,7 @@ This is a simple 3D Model of MASP using POV-Ray.
 
 ## Setup
 
-Just clone the project and open the `Masp.pov` file.  
+Just clone the project and open the `_Masp.pov` file.  
 You need the POV-Ray software installed in your computer.
 
 ## Files
@@ -15,5 +15,5 @@ You need the POV-Ray software installed in your computer.
 - All the files with the name "OBJ" are files that are my creation.
 - All the files with the name "EXT" are files that aren't my creation.
 - The file "Texturas", well, contains textures.
-- The main file `Masp.pov` just call the objects and define light and the camera view.
+- The main file `_Masp.pov` just call the objects and define light and the camera view.
 - The folder `/Views` contains others perspects from the 3D.

@@ -12,7 +12,8 @@ You need the POV-Ray software installed in your computer.
 
 ## Files
 
-- All the files with the name "EXT" are files that aren't my creation.
 - All the files with the name "OBJ" are files that are my creation.
-- The file "Texturas", well, are textures.
+- All the files with the name "EXT" are files that aren't my creation.
+- The file "Texturas", well, contains textures.
 - The main file `Masp.pov` just call the objects and define light and the camera view.
+- The folder "Views" contains others perspects from the 3D.

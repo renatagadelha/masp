@@ -2,7 +2,7 @@
 
 This is a simple 3D Model of MASP using POV-Ray.
 
-![Preview MASP](./views/Frente-LateralDireita.bmp)
+![Preview MASP](./Views/Frente-LateralDireita.bmp)
 
 
 ## Setup

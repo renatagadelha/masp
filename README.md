@@ -7,7 +7,7 @@ This is a simple 3D Model of MASP using POV-Ray.
 
 ## Setup
 
-Just clone the project and open the `Masp.pov` file.
+Just clone the project and open the `Masp.pov` file.  
 You need the POV-Ray software installed in your computer.
 
 ## Files
